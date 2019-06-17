@@ -12,7 +12,7 @@ body
 
 {
 	
-	 background: url("laptop.jpg") no-repeat center center fixed;
+	 background: url('../vicasian/laptop.jpg') no-repeat center center fixed;
 	background-size:100%;
 	min-height:100%;
 
